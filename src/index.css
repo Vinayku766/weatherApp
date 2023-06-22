@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --background-color: #437ef1;
+  --top-font-color: #e3f0fb;
+  --top-btn-color: #19376d;
+  --wind-font-color: #3da2ff;
+  --pressure-font-color: #ffb13d;
+  --moisture-font-color: #643dff;
+}
